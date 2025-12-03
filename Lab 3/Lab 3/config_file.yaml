@@ -1,0 +1,6 @@
+names:
+- Human Face
+train: E:\archive\images\train
+train_labels: E:\archive\labels\train
+val: E:\archive\images\val
+val_labels: E:\archive\labels\val
